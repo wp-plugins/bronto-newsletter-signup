@@ -1,7 +1,7 @@
 <?php
 /**
 * Plugin Name: Bronto Newsletter
-* Plugin URI: http://client.scottishbordersdesign.co.uk/scripts/
+* Plugin URI: https://client.scottishbordersdesign.co.uk/scripts/20/Wordpress+Bronto+Newsletter+Signup.html
 * Description: Get new bronto subscribers from your wordpress website.
 * Version: 1.0.0
 * Author: Scottish Borders Design
