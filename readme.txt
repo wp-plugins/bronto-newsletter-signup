@@ -14,7 +14,7 @@ Displays a email signup box to capture email address to use with bronto.
 
 A few people have been after a plugin that allows Bronto clients to capture email addresses for their newsletter.
 
-This plugin will display a email signup box where users can enter their email address and that email will be added to brontos 'on-boarding'
+This plugin will display an email signup box where users can enter their email address and that email will be added to a bronto list or lists of your choice
 
 Note that for now this form will display using the footer hook.
 
